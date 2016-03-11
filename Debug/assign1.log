@@ -1,0 +1,33 @@
+﻿Build started 3/10/2016 7:16:44 PM.
+     1>Project "C:\Users\JINGNAN\Documents\GitHub\switching_theory\assign1.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\assign1.unsuccessfulbuild".
+       CustomBuild:
+         All outputs are up-to-date.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt assign1.c
+         assign1.c
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"Debug\assign1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\assign1.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"Debug\assign1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"Debug\assign1.lib" /MACHINE:X86 Debug\blif_parser.obj
+         Debug\blif_parser.tab.obj
+         Debug\assign1.exe.embed.manifest.res
+         Debug\assign1.obj
+         Debug\blif_reader.obj
+         Debug\common_types.obj
+         Debug\cubical_function_representation.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\assign1.exe.embed.manifest" /manifest Debug\assign1.exe.intermediate.manifest
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         assign1.vcxproj -> C:\Users\JINGNAN\Documents\GitHub\switching_theory\Debug\assign1.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\assign1.unsuccessfulbuild".
+         Touching "Debug\assign1.lastbuildstate".
+     1>Done Building Project "C:\Users\JINGNAN\Documents\GitHub\switching_theory\assign1.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.53
